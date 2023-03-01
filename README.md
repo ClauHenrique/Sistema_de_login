@@ -18,7 +18,7 @@
 <h1>FrontEnd</h1>
 <h2>dentro da pasta frontEnd/vue-project instale as dependencias</h2>
 
-    Sistema_de_login/frontend\vue-project> npm install
+    Sistema_de_login/frontend/vue-project> npm install
 
 <h2>Execute o frontEnd e acesse o link gerado pelo Vuejs</h2>
 
